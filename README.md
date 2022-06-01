@@ -6,7 +6,7 @@
 
 ## Sobre Projeto:
 - É um sistemas de usuários que tem posts e os posts tem vários comentários, ou seja, 
-vou tem uma entidade que está representado com a classe user, onde o usuário pode ter vários posts, 
+vou ter uma entidade que está representada com a classe user, onde o usuário pode ter vários posts, 
 um post ele tem um autor que é o usuario, e porfim o post ele tem vários comentarios e cada comentário 
 ele é de um post e o comentário tem um autor. 
 
